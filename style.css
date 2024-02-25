@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter";
+}
+.container {
+  margin: 46px 40px;
+}
+
+.top {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+}
+h1 {
+  color: #000;
+  font-family: Inter;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+
+.details {
+  color: #000;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.beagle {
+  color: #000;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.readmore {
+  color: #000;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+
+.imageContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+}
+
+.moreImage {
+  color: #000;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+
+.trivia {
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+}
+
+.item {
+  color: #000;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+ol{
+  margin-left:40px;
+}
